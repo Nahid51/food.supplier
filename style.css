@@ -106,6 +106,24 @@ p {
 }
 
 footer {
-    margin-top: 100px;
-    background-color: skyblue;
+    background-color: darkslateblue;
+    height: 200px;
+    width: 100%;
+}
+
+.ender {
+    padding: 50px;
+
+}
+
+.ender h1 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.ender p {
+    font-size: 15px;
+    text-align: center;
+    color: white;
 }
