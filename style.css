@@ -31,6 +31,57 @@ p {
     text-align: justify;
 }
 
+section nav {
+    height: 20vh;
+    width: 100%;
+    background-color: firebrick;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 20%;
+    text-align: center;
+}
+
+.logo img {
+    height: 100px;
+}
+
+.bar {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bar a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: ghostwhite;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .side-change {
     display: flex;
 }
