@@ -65,6 +65,14 @@ section nav {
 
 }
 
+.bar a:first-child {
+    color: #00E4FF;
+}
+
+.bar a:hover {
+    color: #00E4FF;
+}
+
 
 
 
