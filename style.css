@@ -29,6 +29,9 @@ h1 span {
 p {
     color: dimgray;
     text-align: justify;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 20px;
 }
 
 section nav {
@@ -73,12 +76,9 @@ section nav {
     color: #00E4FF;
 }
 
-
 .side-change {
     display: flex;
 }
-
-
 
 .half {
     width: 50%;
@@ -87,7 +87,7 @@ section nav {
 }
 
 .half img {
-    width: 100%
+    width: 100%;
 }
 
 .btn {
@@ -97,13 +97,13 @@ section nav {
     border-radius: 50px;
     color: papayawhip;
     font-weight: 700;
+    text-transform: uppercase;
 
 }
 
 .section1 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    /* padding-top: 50px; */
 }
 
 .about-contact {
@@ -121,14 +121,11 @@ section nav {
     padding: 20px;
     box-shadow: 10px 10px 20px gray;
     border-radius: 20px;
-
 }
 
 .container {
     display: flex;
     justify-content: space-between;
-
-
 }
 
 .food-item {
@@ -172,4 +169,5 @@ footer {
     font-size: 15px;
     text-align: center;
     color: white;
+    font-size: 12px;
 }
