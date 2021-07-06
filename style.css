@@ -74,22 +74,6 @@ section nav {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .side-change {
     display: flex;
 }
@@ -98,7 +82,8 @@ section nav {
 
 .half {
     width: 50%;
-    margin: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .half img {
@@ -118,6 +103,7 @@ section nav {
 .section1 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    /* padding-top: 50px; */
 }
 
 .about-contact {
@@ -125,6 +111,7 @@ section nav {
     background-repeat: no-repeat;
     background-position: left;
     background-size: 100%;
+    padding-top: 9rem;
 }
 
 .container div {
